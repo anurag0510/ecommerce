@@ -1,0 +1,120 @@
+ItemId,Picture,Name,Description,Price,Discount
+1001,https://example.com/item1.jpg,Blue T-Shirt,"Comfortable cotton t-shirt in blue color",19.99,10
+1002,https://example.com/item2.jpg,Leather Wallet,"Genuine leather wallet with multiple card slots",29.99,15
+1003,https://example.com/item3.jpg,Wireless Earphones,"Bluetooth wireless earphones with noise cancellation",39.99,20
+1004,https://example.com/item4.jpg,Smart Watch,"Waterproof smartwatch with health tracking features",79.99,30
+1005,https://example.com/item5.jpg,Black Backpack,"Spacious backpack with padded shoulder straps",49.99,25
+1006,https://example.com/item6.jpg,Red Dress,"Elegant red dress for special occasions",59.99,12
+1007,https://example.com/item7.jpg,Running Shoes,"Lightweight running shoes with cushioned soles",69.99,18
+1008,https://example.com/item8.jpg,Bluetooth Speaker,"Portable Bluetooth speaker for wireless music playback",49.99,10
+1009,https://example.com/item9.jpg,Black Jeans,"Classic black jeans with a slim fit",39.99,15
+1010,https://example.com/item10.jpg,Sunglasses,"Stylish sunglasses with UV protection",29.99,20
+1011,https://example.com/item11.jpg,Wireless Mouse,"Optical wireless mouse with ergonomic design",19.99,10
+1012,https://example.com/item12.jpg,Travel Mug,"Insulated travel mug for hot and cold beverages",14.99,5
+1013,https://example.com/item13.jpg,Portable Charger,"Compact portable charger for smartphones",24.99,15
+1014,https://example.com/item14.jpg,Printed Scarf,"Colorful printed scarf for a fashionable look",9.99,0
+1015,https://example.com/item15.jpg,Smart Thermostat,"Wi-Fi enabled smart thermostat for home automation",89.99,20
+1016,https://example.com/item16.jpg,Water Bottle,"Durable water bottle with leak-proof cap",12.99,0
+1017,https://example.com/item17.jpg,Leather Belt,"Stylish leather belt with a classic buckle",24.99,10
+1018,https://example.com/item18.jpg,Bluetooth Earbuds,"True wireless Bluetooth earbuds with charging case",79.99,15
+1019,https://example.com/item19.jpg,Yoga Mat,"Non-slip yoga mat for comfortable workouts",29.99,0
+1020,https://example.com/item20.jpg,Beach Towel,"Large beach towel with vibrant patterns",16.99,5
+1021,https://example.com/item21.jpg,Wireless Headphones,"Over-ear wireless headphones with noise cancellation",129.99,10
+1022,https://example.com/item22.jpg,Waterproof Backpack,"Durable backpack with waterproof material",49.99,0
+1023,https://example.com/item23.jpg,Smartwatch,"Fitness tracker smartwatch with heart rate monitor",79.99,5
+1024,https://example.com/item24.jpg,Sunglasses,"UV protection sunglasses with polarized lenses",29.99,0
+1025,https://example.com/item25.jpg,Bluetooth Speaker,"Portable Bluetooth speaker with enhanced bass",39.99,15
+1026,https://example.com/item26.jpg,Resistance Bands,"Set of resistance bands for home workouts",19.99,10
+1027,https://example.com/item27.jpg,Graphic T-Shirt,"Stylish graphic-printed t-shirt for casual wear",14.99,0
+1028,https://example.com/item28.jpg,Running Shoes,"Lightweight running shoes with cushioned soles",79.99,10
+1029,https://example.com/item29.jpg,Travel Pillow,"Inflatable travel pillow for comfortable sleep",9.99,0
+1030,https://example.com/item30.jpg,Bluetooth Keyboard,"Wireless Bluetooth keyboard for tablets and smartphones",34.99,5
+1031,https://example.com/item31.jpg,Wireless Earbuds,"True wireless earbuds with charging case",69.99,10
+1032,https://example.com/item32.jpg,Back Massage Cushion,"Massage cushion for soothing back pain",59.99,0
+1033,https://example.com/item33.jpg,Portable Power Bank,"High-capacity portable power bank for on-the-go charging",39.99,5
+1034,https://example.com/item34.jpg,HD Webcam,"High-definition webcam for video conferencing",49.99,0
+1035,https://example.com/item35.jpg,Fitness Tracker,"Smart fitness tracker with step counter and heart rate monitor",89.99,15
+1036,https://example.com/item36.jpg,Yoga Mat,"Non-slip yoga mat for comfortable workouts",24.99,10
+1037,https://example.com/item37.jpg,Coffee Maker,"Automatic drip coffee maker for brewing delicious coffee",79.99,0
+1038,https://example.com/item38.jpg,Wireless Mouse,"Wireless optical mouse for smooth navigation",19.99,10
+1039,https://example.com/item39.jpg,Travel Backpack,"Spacious travel backpack with multiple compartments",59.99,0
+1040,https://example.com/item40.jpg,Bluetooth Headset,"Wireless Bluetooth headset for hands-free calling",29.99,5
+1041,https://example.com/item41.jpg,Smart Watch,"Multifunctional smartwatch with fitness tracking features",129.99,20
+1042,https://example.com/item42.jpg,Bluetooth Speaker,"Portable Bluetooth speaker with high-quality sound",79.99,0
+1043,https://example.com/item43.jpg,Wireless Keyboard,"Slim and ergonomic wireless keyboard for comfortable typing",49.99,10
+1044,https://example.com/item44.jpg,External Hard Drive,"Large-capacity external hard drive for data storage",99.99,0
+1045,https://example.com/item45.jpg,Solar Power Bank,"Solar-powered power bank for eco-friendly charging",59.99,5
+1046,https://example.com/item46.jpg,Smart Plug,"WiFi-enabled smart plug for home automation",29.99,0
+1047,https://example.com/item47.jpg,Noise-Canceling Headphones,"Wireless noise-canceling headphones for immersive audio experience",149.99,15
+1048,https://example.com/item48.jpg,Action Camera,"Waterproof action camera for capturing adventures",89.99,0
+1049,https://example.com/item49.jpg,Portable Blender,"Compact and portable blender for making healthy smoothies",39.99,10
+1050,https://example.com/item50.jpg,Wireless Charger,"Fast wireless charger for convenient device charging",24.99,0
+1051,https://example.com/item51.jpg,Bluetooth Earbuds,"Wireless Bluetooth earbuds for music and calls",79.99,10
+1052,https://example.com/item52.jpg,Smart Thermostat,"Programmable smart thermostat for energy-efficient temperature control",119.99,0
+1053,https://example.com/item53.jpg,Wireless Mouse,"Ergonomic wireless mouse for precise cursor control",29.99,5
+1054,https://example.com/item54.jpg,VR Headset,"Virtual reality headset for immersive gaming and entertainment",149.99,0
+1055,https://example.com/item55.jpg,Laptop Stand,"Adjustable laptop stand for comfortable viewing and typing",49.99,0
+1056,https://example.com/item56.jpg,Portable Bluetooth Keyboard,"Foldable portable Bluetooth keyboard for typing on the go",59.99,10
+1057,https://example.com/item57.jpg,Wireless Earphones,"Sweatproof wireless earphones for sports and workouts",69.99,0
+1058,https://example.com/item58.jpg,External SSD,"High-speed external SSD for fast data transfer",179.99,15
+1059,https://example.com/item59.jpg,Bluetooth FM Transmitter,"Car Bluetooth FM transmitter for hands-free calling and music streaming",39.99,0
+1060,https://example.com/item60.jpg,Smart LED Bulb,"WiFi-enabled smart LED bulb for customizable lighting",19.99,5
+1061,https://example.com/item61.jpg,Wireless Gaming Mouse,"Gaming-grade wireless mouse with adjustable DPI",49.99,0
+1062,https://example.com/item62.jpg,Bluetooth Beanie,"Warm Bluetooth beanie with built-in wireless headphones",29.99,10
+1063,https://example.com/item63.jpg,Smart Doorbell,"Video doorbell with motion detection and two-way audio",129.99,0
+1064,https://example.com/item64.jpg,Wireless Charging Pad,"Slim wireless charging pad for compatible devices",24.99,0
+1065,https://example.com/item65.jpg,Noise-Canceling Earphones,"Wireless noise-canceling earphones for immersive audio",99.99,20
+1066,https://example.com/item66.jpg,USB-C Hub,"Multiport USB-C hub for expanded connectivity",49.99,0
+1067,https://example.com/item67.jpg,Smart Scale,"Digital smart scale with body composition analysis",39.99,0
+1068,https://example.com/item68.jpg,Bluetooth Shower Speaker,"Waterproof Bluetooth shower speaker for music in the bathroom",19.99,5
+1069,https://example.com/item69.jpg,Wireless Car Charger,"Auto-clamping wireless car charger for easy device charging",39.99,0
+1070,https://example.com/item70.jpg,Portable Projector,"Compact portable projector for movies and presentations",199.99,10
+1071,https://example.com/item71.jpg,Wireless Gaming Headset,"Wireless gaming headset with surround sound and mic",89.99,0
+1072,https://example.com/item72.jpg,Wireless Presenter,"Presentation remote with built-in laser pointer",29.99,0
+1073,https://example.com/item73.jpg,USB Flash Drive,"High-speed USB flash drive for data storage and transfer",14.99,5
+1075,https://example.com/item75.jpg,Wireless Charging Stand,"Adjustable wireless charging stand for smartphones",34.99,0
+1076,https://example.com/item76.jpg,Bluetooth Fitness Tracker,"Waterproof Bluetooth fitness tracker with heart rate monitor",49.99,10
+1077,https://example.com/item77.jpg,External Hard Drive,"Portable external hard drive for data backup and storage",109.99,0
+1078,https://example.com/item78.jpg,Bluetooth Speaker,"Portable Bluetooth speaker with 360-degree sound",79.99,0
+1079,https://example.com/item79.jpg,Wireless Keyboard and Mouse Set,"Full-size wireless keyboard and mouse combo",39.99,5
+1080,https://example.com/item80.jpg,Smart Plug,"WiFi-enabled smart plug for remote control of devices",24.99,0
+1081,https://example.com/item81.jpg,Bluetooth Car Kit,"Hands-free Bluetooth car kit with FM transmitter",29.99,0
+1082,https://example.com/item82.jpg,Wireless Sport Headphones,"Sweatproof wireless sport headphones with secure fit",39.99,0
+1083,https://example.com/item83.jpg,Portable Power Bank,"High-capacity portable power bank for charging devices on the go",49.99,0
+1084,https://example.com/item84.jpg,Bluetooth Audio Adapter,"Wireless Bluetooth audio adapter for streaming music to speakers",19.99,5
+1085,https://example.com/item85.jpg,Smart Home Security Camera,"WiFi-enabled smart home security camera with motion detection",79.99,0
+1086,https://example.com/item86.jpg,USB-C Docking Station,"Universal USB-C docking station for multiple device connections",99.99,0
+1087,https://example.com/item87.jpg,Wireless Presenter with Laser Pointer,"Presentation remote with built-in laser pointer",29.99,0
+1088,https://example.com/item88.jpg,Bluetooth Neckband Headphones,"Wireless neckband headphones with magnetic earbuds",39.99,0
+1089,https://example.com/item89.jpg,Smart Wi-Fi Router,"High-performance smart Wi-Fi router for fast and reliable internet",129.99,0
+1090,https://example.com/item90.jpg,Portable Bluetooth Speaker,"Compact portable Bluetooth speaker for music on the go",29.99,0
+1091,https://example.com/item91.jpg,Wireless Keyboard,"Slim wireless keyboard for comfortable typing",24.99,0
+1092,https://example.com/item92.jpg,Bluetooth Receiver,"Bluetooth audio receiver for wireless music streaming",19.99,5
+1093,https://example.com/item93.jpg,USB-C Charging Cable,"Durable USB-C charging cable for fast and reliable charging",12.99,0
+1094,https://example.com/item94.jpg,Smart Door Lock,"Keyless smart door lock with touchscreen and app control",149.99,0
+1095,https://example.com/item95.jpg,Wireless Earbuds,"True wireless earbuds with noise cancellation",79.99,0
+1096,https://example.com/item96.jpg,Gaming Mouse,"High-precision gaming mouse with customizable RGB lighting",59.99,0
+1097,https://example.com/item97.jpg,Portable Bluetooth Keyboard,"Compact and foldable Bluetooth keyboard for mobile devices",34.99,0
+1098,https://example.com/item98.jpg,Smart Thermostat,"Wi-Fi-enabled smart thermostat for home temperature control",129.99,0
+1099,https://example.com/item99.jpg,USB-C Hub,"Multi-port USB-C hub for connecting peripherals to laptops",49.99,0
+1100,https://example.com/item100.jpg,Wireless Charging Pad,"Qi-compatible wireless charging pad for smartphones",24.99,5
+1101,https://example.com/item101.jpg,Bluetooth Headset,"Wireless Bluetooth headset for hands-free calls",39.99,0
+1102,https://example.com/item102.jpg,External SSD,"Portable external SSD for fast data transfer and storage",149.99,0
+1103,https://example.com/item103.jpg,Smart LED Bulb,"Wi-Fi-enabled smart LED bulb with adjustable brightness and color",19.99,0
+1104,https://example.com/item104.jpg,Bluetooth Karaoke Microphone,"Wireless Bluetooth karaoke microphone for singing and recording",29.99,0
+1105,https://example.com/item105.jpg,Wireless Gaming Controller,"Bluetooth gaming controller for consoles and mobile devices",49.99,0
+1106,https://example.com/item106.jpg,Wireless Charging Car Mount,"Auto-clamping wireless charging car mount for smartphones",39.99,0
+1107,https://example.com/item107.jpg,Bluetooth Fitness Earbuds,"Wireless earbuds with built-in heart rate monitor for fitness tracking",89.99,0
+1108,https://example.com/item108.jpg,Smart Home Starter Kit,"All-in-one smart home starter kit with hub and devices",199.99,0
+1109,https://example.com/item109.jpg,Wireless Ergonomic Mouse,"Ergonomic wireless mouse with adjustable DPI settings",29.99,0
+1110,https://example.com/item110.jpg,Portable Bluetooth Speaker,"Waterproof portable Bluetooth speaker with long battery life",59.99,0
+1111,https://example.com/item111.jpg,USB-C Power Adapter,"Compact USB-C power adapter for fast charging",19.99,5
+1112,https://example.com/item112.jpg,Wireless Charging Mouse Pad,"Mouse pad with built-in wireless charger for compatible devices",34.99,0
+1113,https://example.com/item113.jpg,Smart Doorbell,"Video doorbell with motion detection and two-way audio",129.99,0
+1114,https://example.com/item114.jpg,Bluetooth Soundbar,"Wireless Bluetooth soundbar for enhanced audio experience",79.99,0
+1115,https://example.com/item115.jpg,Wireless Keyboard and Mouse Set,"Full-size wireless keyboard and mouse combo",49.99,0
+1116,https://example.com/item116.jpg,Smart Fitness Tracker,"Fitness tracker with heart rate monitor and activity tracking",79.99,0
+1117,https://example.com/item117.jpg,Portable Power Bank,"High-capacity portable power bank for charging devices on the go",39.99,0
+1118,https://example.com/item118.jpg,Bluetooth In-Ear Headphones,"Wireless Bluetooth in-ear headphones with noise isolation",69.99,0
+1119,https://example.com/item119.jpg,USB-C Docking Station,"Multi-port USB-C docking station for laptop connectivity",89.99,0
+1120,https://example.com/item120.jpg,Smart Wi-Fi Plug,"Wi-Fi-enabled smart plug for remote control of devices",24.99,5
